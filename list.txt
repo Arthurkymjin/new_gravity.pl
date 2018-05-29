@@ -1,0 +1,1 @@
+Sites Vuln aqui :D => inurl:/wp-content/plugins/gravityforms/ -  inurl:/wp-content/uploads/gravity_forms/
